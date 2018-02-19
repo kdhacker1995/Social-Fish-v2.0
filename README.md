@@ -40,11 +40,11 @@ How To Use:<br>
 AVAILABLE PAGES<br>
 
 	+ Facebook:
-		Traditional Facebook login page.
-    		Advanced login with Facebook.
+		Traditional Facebook login page. <br>
+		Advanced login with Facebook.
 
 	+ Google:
-		Traditional Google login page.
+		Traditional Google login page.<br>
     		Advanced login with Facebook.
 
 	+ LinkedIn:
