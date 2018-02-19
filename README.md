@@ -45,7 +45,7 @@ AVAILABLE PAGES<br>
 
 	+ Google:
 		Traditional Google login page.<br>
-    		Advanced login with Facebook.
+		Advanced login with Facebook.
 
 	+ LinkedIn:
 		Traditional LinkedIn login page.
