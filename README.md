@@ -4,7 +4,7 @@ Official Written by: Alisson Moretto | Twitter: @A1S0N_ Github: @A1S0N
 
 
 OTHER CONTRIBUTORS :-<br>
-	koushik suthar: [ Add microsoft, Instagram ] | GitHub: https://github.com/kdhacker1995
+	koushik suthar: [ Add microsoft, Instagram ] | GitHub: https://github.com/kdhacker1995<br>
 	cloaksec: [ Add Twitter ]<br>
 	adiranas: [ Added macOS support ]
 
