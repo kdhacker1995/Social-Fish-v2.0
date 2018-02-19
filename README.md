@@ -25,7 +25,7 @@ TESTED ON :-<br>
 CLONE :-<br>
 	official Without Instagram and Microsoft:
 		"git clone https://github.com/UndeadSec/SocialFish.git"<br>
-	Koushik Suthar With Instagram and Microsoft:
+	kdhacker1995 With Instagram and Microsoft:
 		"git clone https://github.com/kdhacker1995/Social-Fish-v2.0.git"
 
 
